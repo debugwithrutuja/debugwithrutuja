@@ -1,16 +1,49 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I'm Rutuja Jadhav</h1>
 
-<!--
-**debugwithrutuja/debugwithrutuja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">💻 Final Year BCS Student | Aspiring Software Developer</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 Final Year BCS Student
+- 💡 Skilled in C, C++, Java & Python
+- 🌐 Building Web Projects using HTML, CSS & JavaScript
+- 🛢 Learning Databases: MySQL & Oracle
+- 📚 Preparing for TCS Ignite & IT placements
+- 🔥 Passionate about problem solving & coding daily
+
+---
+
+## 🛠 Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,mysql,git,github" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+🔹 **Post Office Automation System**  
+(Java + MySQL based academic project)
+
+🔹 **Coding Problems Repository**  
+Daily problem solving practice
+
+---
+
+## 📊 GitHub Stats
+
+![Rutuja's GitHub stats](https://github-readme-stats.vercel.app/api?username=debugwithrutuja&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+
+- 📍 Solapur, Maharashtra
+- 💼 Open to Internship & Fresher Roles
+
+---
+
+⭐ Always learning. Always growing.
